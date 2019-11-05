@@ -3,6 +3,6 @@ layout: default
 title: Publication
 ---
 
-### Publication
+### Publications
 
 Under construction, sorry!
