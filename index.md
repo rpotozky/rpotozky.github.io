@@ -12,6 +12,6 @@ I'm currently researching the situation of the Kartvelian languages in the Nostr
 
 I'm also a member of the [Linguistic Typology Lab](http://latip.com.br/) (LATIP), based on the [Federal University of Bahia](https://www.ufba.br/) (UFBA), collaborating with a web platform of statistical analysis of linguistic data, under the guidance of [Prof. João Paulo Lazzarini Cyrino, PhD.](http://lattes.cnpq.br/0607604801534336).
 
-I'm receiving a scholarship of the [Pro-Rectory of Science Outreach and Culture](http://www.proec.ufpr.br), at the [Federal University of Paraná](https://www.ufpr.br/) (PROEC/UFPR), for my participation in the "Languages in Dialog" project of regional, minority and minorised languages awareness.
+I'm receiving a scholarship from the [Pro-Rectory of Culture and Science Outreach](http://www.proec.ufpr.br), of the [Federal University of Paraná](https://www.ufpr.br/) (PROEC/UFPR), for my participation in the "Languages in Dialog" project of regional, minority and minorised languages awareness.
 
 You can contact me at [potozky@ufpr.br](mailto:potozky@ufpr.br).
