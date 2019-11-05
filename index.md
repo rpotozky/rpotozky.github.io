@@ -14,4 +14,10 @@ I'm also a member of the [Linguistic Typology Lab](http://latip.com.br/) (LATIP)
 
 I'm receiving a scholarship from the [Pro-Rectory of Culture and Science Outreach](http://www.proec.ufpr.br), of the [Federal University of Paraná](https://www.ufpr.br/) (PROEC/UFPR), for my participation in the [Languages in Dialog](#) project of regional, minority and minorised languages awareness. In this project I coordinate the [Minorised Languages Study Group](#), which has regular open meetings every weak.  
 
+---
+
+As a supporter and advocate of [free software](https://www.gnu.org/philosophy/free-sw.en.html), you can check my current work config, as well as some software recomendations on the [free software config](https://rpotozky.github.io/fsc.html) page; 
+
+---
+
 You can contact me at [potozky@ufpr.br](mailto:potozky@ufpr.br).
