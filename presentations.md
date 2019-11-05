@@ -5,7 +5,7 @@ title: Presentations
 
 ### Presentations
 
-**OLIVEIRA, R. P.** (2019) Os Verbos Iterativos no Sistema Aspectual da Língua Polonesa. . 2019. (_The Iterative Verbs in the Aspectual System of the Polish language_). In: 67º Seminário do Grupo de Estudos Linguísticos do Estado de São Paulo. São Paulo (SP), Brazil.
+**OLIVEIRA, R. P.** (2019) Os Verbos Iterativos no Sistema Aspectual da Língua Polonesa. 2019. (_The Iterative Verbs in the Aspectual System of the Polish language_). In: 67º Seminário do Grupo de Estudos Linguísticos do Estado de São Paulo. São Paulo (SP), Brazil.
 
 **OLIVEIRA, R. P.** (2019) Um Estudo Comparativo do Sistema de Escrita Cuneiforme no Acádio e no Persa Antigo. 2019. (_A Comparative Study of the Cuneiform Writing on Akkadian and Old Persian_). In: XXI Semana de Letras da Universidade Federal do Paraná. Curitiba (PR), Brazil.
 
