@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Calendar fo Future Events
+title: Calendar
 ---
 
-### Calendar fo Future Events
+### Calendar
 
 |    Date    |                   Event                   |                          Presentation                         |
 |:----------:|:-----------------------------------------:|:-------------------------------------------------------------:|
