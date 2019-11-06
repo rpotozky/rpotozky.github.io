@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<style type="text/css">
+    body {
+        overflow: hidden;
+    }
+</style>
+
 ### Welcome!
 
 I'm an undergraduate student of Polish Language and Literature at the [Federal University of Paraná](https://www.ufpr.br/) (UFPR) in Brazil.
