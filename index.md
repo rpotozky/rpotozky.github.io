@@ -1,15 +1,7 @@
 ---
 layout: default
 ---
-<style type="text/css">
-    html {
-        overflow: scroll;
-    }
-    ::-webkit-scrollbar {
-    width: 0px;
-    background: transparent; /* make scrollbar transparent */
-}
-</style>
+
 ### Welcome!
 
 I'm an undergraduate student of Polish Language and Literature at the [Federal University of Paraná](https://www.ufpr.br/) (UFPR) in Brazil.
