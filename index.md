@@ -16,4 +16,4 @@ I'm receiving a scholarship from the [Pro-Rectory of Culture and Science Outreac
 
 ----
 
-You can contact me at [potozky@ufpr.br](mailto:potozky@ufpr.br).
+You can contact me at [potozky@ufpr.br](mailto:potozky@ufpr.br) or at [contact@rpotozky.com](mailto:contact@rpotozky.com).
