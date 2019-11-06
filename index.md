@@ -2,9 +2,13 @@
 layout: default
 ---
 <style type="text/css">
-    body {
-        overflow: hidden;
+    html {
+        overflow: scroll;
     }
+    ::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
 </style>
 ### Welcome!
 
