@@ -16,5 +16,3 @@ title: Publications
 **OLIVEIRA, R. P.** (2018) Verboj de Movado en la Pola Lingvo. (_Verbs of Motion in the polish language_). In: La Lampiro (Magazine  Article). São Paulo (SP), Brazil. vol.150, p.21-22. \[[pdf](./media/pdf/lampiro18.pdf)\]
 
 **OLIVEIRA, R. P.** (2018) Esperanto e PROLOG como Introdução à Linguística Computacional (_Esperanto and PROLOG as Introduction to Computational Linguistics_). In: Cadernos de Resumos - XX Semana de Letras da Universidade Federal do Paraná (Abstract). Curitiba (PR), Brazil. vol.1, p.84. \[[pdf](./media/pdf/semana18.pdf)\]
-
-**OLIVEIRA, R. P.** (2018) Esperanto e PROLOG como Introdução à Linguística Computacional (_Esperanto and PROLOG as Introduction to Computational Linguistics_). In: Cadernos de Resumos - XX Semana de Letras da Universidade Federal do Paraná (Abstract). Curitiba (PR), Brazil. vol.1, p.84. \[[pdf](./media/pdf/semana18.pdf)\]
