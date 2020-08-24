@@ -12,7 +12,7 @@ I'm currently working with the reconstruction of the core case markers of Proto-
 
 I'm a collaborating member of the [Linguistic Typology Lab](http://latip.com.br/) (LATIP), based at the [Federal University of Bahia](https://www.ufba.br/) (UFBA), collaborating with a web platform of statistical analysis of linguistic data, under the guidance of [Prof. João Paulo Lazzarini Cyrino, PhD.](http://lattes.cnpq.br/0607604801534336) In this lab, I mainly work with the data of Nakh-Daghestanian languages (namely Aghul, Tsakhur and Khwarshi).
 
-I also participate in the [Línguas em Diálogo](https://linguasemdialogo.info/) project of the [Federal University of Paraná](https://www.ufpr.br/) (UFPR), whose main purpose is to disseminate linguistic diversity through community actions and offers of free language courses in public schools.
+I also participate in the [Línguas em Diálogo](https://linguasemdialogo.info/) project of the [Federal University of Paraná](https://www.ufpr.br/) (UFPR), whose main purpose is to disseminate linguistic diversity through community actions and offers of free language courses in public schools. In this project, I also coordinate a study group of minority, minoritized, and less commonly studied/taught languages.
 
 
 ----
