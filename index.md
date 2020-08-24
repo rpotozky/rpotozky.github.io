@@ -10,7 +10,7 @@ My general academic interests are the description of natural languages using the
 
 I'm currently working with the reconstruction of the core case markers of Proto-Nakh-Daghestanian, under the guidance of [Prof. Márcio Renato Guimarães, PhD.](https://marciorenato.wordpress.com/)
 
-I'm also a member of the [Linguistic Typology Lab](http://latip.com.br/) (LATIP), based on the [Federal University of Bahia](https://www.ufba.br/) (UFBA), collaborating with a web platform of statistical analysis of linguistic data, under the guidance of [Prof. João Paulo Lazzarini Cyrino, PhD.](http://lattes.cnpq.br/0607604801534336) In this lab, I mainly work with the data of Nakh-Daghestanian languages (namely Aghul, Tsakhur and Khwarshi). 
+I'm also a member of the [Linguistic Typology Lab](http://latip.com.br/) (LATIP), based at the [Federal University of Bahia](https://www.ufba.br/) (UFBA), collaborating with a web platform of statistical analysis of linguistic data, under the guidance of [Prof. João Paulo Lazzarini Cyrino, PhD.](http://lattes.cnpq.br/0607604801534336) In this lab, I mainly work with the data of Nakh-Daghestanian languages (namely Aghul, Tsakhur and Khwarshi). 
 
 ----
 
