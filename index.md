@@ -4,7 +4,7 @@ layout: default
 
 ### Welcome!
 
-I'm an undergraduate student of Polish Language and Literature at the [Federal University of Paraná](https://www.ufpr.br/) (UFPR) in Brazil.
+I'm an undergraduate student of Polish Language and Literature at the [Federal University of Paraná](https://www.ufpr.br/) (UFPR) and an undergraduate student of Data Science at the [Positivo University](https://www.up.edu.br/) (UP) in Brazil.
 
 My general academic interests are the description of natural languages using the Categorial Grammar formalism, the usage of Hidden Markov Models in statistical natural language processing, and their respectively computational applications in [PROLOG](https://www.swi-prolog.org/), [Haskell](https://www.haskell.org/) and [R](https://www.r-project.org/). 
 
